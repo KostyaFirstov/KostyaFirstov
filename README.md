@@ -7,7 +7,8 @@
 
 Начал свой путь в 2019-ом году, изучая Python и Data Scince 👨‍💻 
 На тот момент меня не сильно зацепило данное направление и я открыл для себя вёрстку (HTML/CSS) 🚀  
-Сейчас я продолжаю развиваться во Frontend-разработке, участвуя в интересных стартап-проектах и на работе 💼 
+Проработал более 1 года, создавая сайты под ключ, начиная с дизайна и заканчивания установкой на CMS 💼
+Сейчас я продолжаю развиваться во Frontend-разработке, участвуя в интересных стартап-проектах и на работе 🎓 
 
 
 - 🌱 Заканчиваю работу над [shmot-admin](https://github.com/KostyaFirstov/shmot-admin)  
@@ -73,7 +74,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KostyaFirstov&theme=bear&border_radius=12" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KostyaFirstovy&layout=compact&theme=bear&border_radius=12" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KostyaFirstov&layout=compact&theme=bear&border_radius=12" />
     </td>
   </tr>
 </table>
@@ -82,7 +83,7 @@
 <br/>  
 
 
-## Connect with me  
+## Связаться со мной
 <a href="https://linkedin.com/in/KostyaFirstov" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -91,11 +92,4 @@
 </a>
 <a href="https://www.behance.net/KostyaFirstov" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KostyaFirstov&&style=flat-square" align="center" />
-</div>  
+</a> 
