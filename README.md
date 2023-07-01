@@ -68,13 +68,6 @@
 <br/>  
 
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/f1rst0fff/badges/large)
-
-
-<br/>
-
 ## ⚙️ GitHub статистика:
 <table>
   <tr>
@@ -90,6 +83,14 @@
  
 
 <br/>  
+
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/f1rst0fff/badges/large)
+
+
+<br/>
 
 
 ## Связаться со мной
