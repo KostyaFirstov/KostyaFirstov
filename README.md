@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://i.ibb.co/r4pR8Nk/github-bg.jpg" align="center" height="" width="600" />
-</div>  
+</div>   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KostyaFirstov&theme=bear&border_radius=12)](https://git.io/streak-stats)
 <!--
