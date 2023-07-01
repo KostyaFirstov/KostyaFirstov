@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="/assets/github-bg.png"  align="center" style="width: 100%" />
+<img src="/assets/github-bg.svg"  align="center" style="width: 100%" />
 </div>   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KostyaFirstov&theme=bear&border_radius=12)](https://git.io/streak-stats)
